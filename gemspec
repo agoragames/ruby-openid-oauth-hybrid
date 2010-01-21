@@ -18,4 +18,6 @@ SPEC = Gem::Specification.new do |s|
   s.has_rdoc = true
   s.extra_rdoc_files = ['README','INSTALL','LICENSE','UPGRADE']
   s.rdoc_options << '--main' << 'README'
+  s.add_dependency 'oauth'
+  s.add_dependency 'mocha'
 end
