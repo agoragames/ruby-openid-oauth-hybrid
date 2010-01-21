@@ -39,6 +39,10 @@ Or, if you installed via rubygems:
 
 Go into the test directory and execute the *runtests.rb* script.
 
+On OSX from root project directory, run with:
+export RUBYLIB=${RUBYLIB}:/path/to/ruby-openid/lib
+ruby -rubygems ./admin/runtests.rb
+
 == Next steps
 
 * Run consumer.rb in the examples directory. 
