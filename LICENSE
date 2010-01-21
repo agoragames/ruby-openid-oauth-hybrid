@@ -1,3 +1,6 @@
+The code in lib/openid/extensions/oauth.rb and test/test_oauth.rb is Copyright 2010 by AgoraGames, and
+distributed under the terms of the Apache license 2.0.  See http://www.apache.org/licenses/
+
 The code in lib/hmac/ is Copyright 2001 by Daiki Ueno, and distributed under
 the terms of the Ruby license.  See http://www.ruby-lang.org/en/LICENSE.txt
 

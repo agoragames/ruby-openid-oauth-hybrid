@@ -1,5 +1,4 @@
-# An implementation of the OpenID OAuth
-# Extension Draft
+# An implementation of the OpenID-OAuth Extension Draft
 # see: http://step2.googlecode.com/svn/spec/openid_oauth_extension/latest/openid_oauth_extension.html
 
 require 'oauth'
